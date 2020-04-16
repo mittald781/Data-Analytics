@@ -1,2 +1,2 @@
 # Data-Analytics
-Open IIT and GC Data Projects
+ GC Data Project
